@@ -1,0 +1,15 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpd-file, coding: UTF-8
+#date: Thu May 25 2023 14:40:51
+#--EXPERIMENT INFO
+#e mainfile: c.py
+#e sha1: 42d378
+#e modules: 
+#e Experiment: multitask
+#e no between subject factors
+#--SUBJECT INFO
+#s id: 18
+subject_id,
+18,0,1190,j,346,filling,square3
+18,1,1119,f,279,shape,diamond3
+18,2,1994,j,494,filling,square2
+18,3,1481,f,553,shape,diamond2

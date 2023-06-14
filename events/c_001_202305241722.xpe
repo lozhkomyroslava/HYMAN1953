@@ -1,0 +1,36 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed May 24 2023 17:22:34
+#sha1: 89db6f
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10101,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+10101,design,logged,
+10101,Experiment,started
+10118,Stimulus,presented,5
+10472,Keyboard,received,32,wait
+10492,Stimulus,presented,0
+12042,Picture,loaded,d_3_dots.png
+12061,Stimulus,presented,0
+12441,Keyboard,received,106,wait
+12441,stdout,received,"Error loading image: name 'time_recorder' is not defined"
+12453,Stimulus,presented,0
+13741,Picture,loaded,d_2_dots.png
+13758,Stimulus,presented,0
+14694,Keyboard,received,100,wait
+14694,stdout,received,'Error loading image: 100'
+14707,Stimulus,presented,0
+15918,Picture,loaded,s_2_dots.png
+15936,Stimulus,presented,0
+16357,Keyboard,received,100,wait
+16357,stdout,received,'Error loading image: 100'
+16369,Stimulus,presented,0
+17551,Picture,loaded,s_3_dots.png
+17569,Stimulus,presented,0
+17949,Keyboard,received,106,wait
+17949,stdout,received,"Error loading image: name 'time_recorder' is not defined"
+17949,Experiment,ended
+17955,Stimulus,presented,12

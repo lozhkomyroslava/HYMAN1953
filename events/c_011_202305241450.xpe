@@ -1,0 +1,41 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed May 24 2023 14:50:02
+#sha1: 384a95
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+12359,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+12359,design,logged,
+12359,Experiment,started
+12373,Stimulus,presented,5
+37344,Keyboard,received,32,wait
+37359,Stimulus,presented,0
+38641,Picture,loaded,s_3_dots.png
+38650,Stimulus,presented,0
+39496,Keyboard,received,106,wait
+39509,Stimulus,presented,0
+40523,Stimulus,presented,0
+41592,Picture,loaded,d_3_dots.png
+41601,Stimulus,presented,0
+42249,Keyboard,received,106,wait
+42259,Stimulus,presented,0
+43272,Stimulus,presented,0
+44440,Picture,loaded,d_2_dots.png
+44449,Stimulus,presented,0
+45367,Keyboard,received,102,wait
+45376,Stimulus,presented,0
+46389,Stimulus,presented,0
+47688,Picture,loaded,s_2_dots.png
+47697,Stimulus,presented,0
+48532,Keyboard,received,106,wait
+48542,Stimulus,presented,0
+49542,Experiment,ended
+49543,Data,saved
+49548,Stimulus,presented,12
+52653,stderr,received,'Traceback (most recent call last):'
+52653,stderr,received,'  File "c.py", line 130, in <module>'
+52654,stderr,received,'    for trial in exp.data.trials():'
+52654,stderr,received,"AttributeError: 'DataFile' object has no attribute 'trials'"

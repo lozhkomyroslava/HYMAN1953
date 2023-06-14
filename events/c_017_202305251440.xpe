@@ -1,0 +1,20 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Thu May 25 2023 14:40:17
+#sha1: 612af2
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10058,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+10058,design,logged,
+10058,Experiment,started
+10074,Stimulus,presented,5
+10516,Keyboard,received,32,wait
+10534,Stimulus,presented,0
+11815,stdout,received,'Error loading image: index 0 is out of bounds for axis 0 with size 0'
+11828,Stimulus,presented,0
+13013,stdout,received,'Error loading image: index 1 is out of bounds for axis 0 with size 0'
+13013,Experiment,ended
+13019,Stimulus,presented,8

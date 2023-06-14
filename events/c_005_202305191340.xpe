@@ -1,0 +1,26 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Fri May 19 2023 13:40:01
+#sha1: fcdb4b
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10044,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+10044,design,logged,
+10044,Experiment,started
+10063,Stimulus,presented,5
+25500,Keyboard,received,32,wait
+25515,Stimulus,presented,0
+27496,stdout,received,"Error loading image: 'Picture' object has no attribute 'set_position'"
+27508,Stimulus,presented,0
+29084,stdout,received,"Error loading image: 'Picture' object has no attribute 'set_position'"
+29096,Stimulus,presented,0
+30695,stdout,received,"Error loading image: 'Picture' object has no attribute 'set_position'"
+30707,Stimulus,presented,0
+32618,stdout,received,"Error loading image: 'Picture' object has no attribute 'set_position'"
+32618,Experiment,ended
+32624,Stimulus,presented,12
+35749,stdout,received,'Total response time (upper block): 0 ms'
+35749,stdout,received,'Total response time (lower block): 0 ms'

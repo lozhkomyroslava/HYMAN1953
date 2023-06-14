@@ -1,0 +1,30 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed May 24 2023 16:27:49
+#sha1: 0a113b
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10681,design,log,
+#design: #exp: Parity Decision
+#design: #dvn: number,oddity,respkey,RT
+#design: block_cnt,block_id,trial_cnt,trial_id
+10681,design,logged,
+10681,Experiment,started
+10698,Stimulus,presented,5
+11306,Keyboard,received,106,wait
+11320,Stimulus,presented,4
+12325,Stimulus,presented,3
+12830,Stimulus,presented,0
+13298,Keyboard,received,f,wait_char
+13309,Stimulus,presented,4
+14313,Stimulus,presented,3
+14818,Stimulus,presented,2
+16266,Keyboard,received,j,wait_char
+16281,Stimulus,presented,4
+17285,Stimulus,presented,3
+17789,Stimulus,presented,1
+17970,Keyboard,received,f,wait_char
+17970,Experiment,ended
+17971,Data,saved
+17976,Stimulus,presented,8

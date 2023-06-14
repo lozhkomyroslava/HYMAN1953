@@ -1,0 +1,14 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed Jun 14 2023 17:03:59
+#sha1: 8cb119
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.5.0', version='Darwin Kernel Version 22.5.0: Mon Apr 24 20:53:44 PDT 2023; root:xnu-8796.121.2~5/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+4538,stdout,received,'Warning: PyOpenGL is not installed. OpenGL will be deactivated!'
+50314,stdout,received,'Traceback (most recent call last):'
+50314,stdout,received,'  File "c.py", line 169, in <module>'
+50315,stdout,received,'    blankscreen.present()'
+50315,stdout,received,'  File "/Users/lozhkomyroslava/opt/anaconda3/envs/expyriment/lib/python3.7/site-packages/expyriment/stimuli/_visual.py", line 1175, in present'
+50317,stdout,received,'    raise RuntimeError("Cannot not find a screen!")'
+50317,stdout,received,'RuntimeError: Cannot not find a screen!'

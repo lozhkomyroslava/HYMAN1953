@@ -1,0 +1,5 @@
+4017,stdout,received,'Warning: PyOpenGL is not installed. OpenGL will be deactivated!'
+17175,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+19604,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+22015,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+24164,stdout,received,"Error loading image: 'float' object has no attribute 'time'"

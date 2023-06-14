@@ -164,11 +164,11 @@ def save_data(waiting_times, reaction_times, filename=result):
 
 control.end()
 
-# # # output response times
-# for i_trial in range(total_trails):
-#     blankscreen.present()
-#     waiting_time = random.randint(min_time, max_time)
-#     exp.clock.wait(waiting_time)
-#     target.present()
-#     key, rt = exp.keyboard.wait(duration=response_delay)
-#     exp.data.add([training_trails, waiting_time, key, rt])
+# # output response times
+for i_trial in range(total_trails):
+    blankscreen.present()
+    waiting_time = random.randint(min_time, max_time)
+    exp.clock.wait(waiting_time)
+    target.present()
+    key, rt = exp.keyboard.wait(duration=response_delay)
+    exp.data.add([training_trails, waiting_time, key, rt])

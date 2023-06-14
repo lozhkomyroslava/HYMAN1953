@@ -1,0 +1,5 @@
+4037,stdout,received,'Warning: PyOpenGL is not installed. OpenGL will be deactivated!'
+26973,stdout,received,'Traceback (most recent call last):'
+26973,stdout,received,'  File "c.py", line 157, in <module>'
+26974,stdout,received,'    def save_data(waiting_times, reaction_times, filename=RESULT_FILE):'
+26974,stdout,received,"NameError: name 'RESULT_FILE' is not defined"

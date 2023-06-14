@@ -1,0 +1,37 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed May 24 2023 14:47:30
+#sha1: 3f832a
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10754,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+10754,design,logged,
+10754,Experiment,started
+10770,Stimulus,presented,5
+15490,Keyboard,received,32,wait
+15509,Stimulus,presented,0
+16593,Picture,loaded,s_3_dots.png
+16602,Stimulus,presented,0
+17935,Keyboard,received,106,wait
+17946,Stimulus,presented,0
+18959,Stimulus,presented,0
+20160,Picture,loaded,d_3_dots.png
+20168,Stimulus,presented,0
+20693,Keyboard,received,106,wait
+20703,Stimulus,presented,0
+21716,Stimulus,presented,0
+23518,Picture,loaded,s_2_dots.png
+23526,Stimulus,presented,0
+23898,Keyboard,received,106,wait
+23908,Stimulus,presented,0
+24921,Stimulus,presented,0
+26764,Picture,loaded,d_2_dots.png
+26772,Stimulus,presented,0
+27171,Keyboard,received,102,wait
+27181,Stimulus,presented,0
+28181,Experiment,ended
+28182,Data,saved
+28187,Stimulus,presented,12

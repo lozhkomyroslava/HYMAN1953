@@ -1,0 +1,43 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed May 24 2023 17:41:17
+#sha1: 70bf89
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10279,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+10279,design,logged,
+10279,Experiment,started
+10297,Stimulus,presented,5
+10734,Keyboard,received,32,wait
+10752,Stimulus,presented,0
+11842,Picture,loaded,d_2_dots.png
+11851,Stimulus,presented,0
+12789,Keyboard,received,102,wait
+12800,Stimulus,presented,0
+13815,Stimulus,presented,0
+15805,Picture,loaded,s_3_dots.png
+15815,Stimulus,presented,0
+16849,Keyboard,received,106,wait
+16859,Stimulus,presented,0
+17872,Stimulus,presented,0
+19292,Picture,loaded,d_3_dots.png
+19301,Stimulus,presented,0
+20179,Keyboard,received,102,wait
+20189,Stimulus,presented,0
+21202,Stimulus,presented,0
+22228,Picture,loaded,s_2_dots.png
+22237,Stimulus,presented,0
+24435,Keyboard,received,106,wait
+24445,Stimulus,presented,0
+25445,Experiment,ended
+25446,Data,saved
+25451,Stimulus,presented,12
+28582,stderr,received,'Traceback (most recent call last):'
+28582,stderr,received,'  File "c.py", line 131, in <module>'
+28583,stderr,received,'    blankscreen.present()'
+28583,stderr,received,'  File "/Users/lozhkomyroslava/opt/anaconda3/envs/expyriment/lib/python3.7/site-packages/expyriment/stimuli/_visual.py", line 1175, in present'
+28584,stderr,received,'    raise RuntimeError("Cannot not find a screen!")'
+28584,stderr,received,'RuntimeError: Cannot not find a screen!'

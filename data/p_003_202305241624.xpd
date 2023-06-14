@@ -1,0 +1,14 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpd-file, coding: UTF-8
+#date: Wed May 24 2023 16:24:18
+#--EXPERIMENT INFO
+#e mainfile: p.py
+#e sha1: 0a113b
+#e modules: 
+#e Experiment: Parity Decision
+#e no between subject factors
+#--SUBJECT INFO
+#s id: 3
+subject_id,number,oddity,respkey,RT
+3,2,0,f,906
+3,0,0,j,252
+3,1,1,j,831

@@ -1,0 +1,42 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed May 24 2023 17:26:12
+#sha1: 963eeb
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10866,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+10866,design,logged,
+10866,Experiment,started
+10885,Stimulus,presented,5
+11434,Keyboard,received,32,wait
+11454,Stimulus,presented,0
+13059,Picture,loaded,d_3_dots.png
+13078,Stimulus,presented,0
+13400,Keyboard,received,106,wait
+13400,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+13412,Stimulus,presented,0
+14846,Picture,loaded,s_2_dots.png
+14865,Stimulus,presented,0
+15212,Keyboard,received,102,wait
+15212,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+15224,Stimulus,presented,0
+17176,Picture,loaded,d_2_dots.png
+17194,Stimulus,presented,0
+17906,Keyboard,received,102,wait
+17906,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+17918,Stimulus,presented,0
+19562,Picture,loaded,s_3_dots.png
+19581,Stimulus,presented,0
+20029,Keyboard,received,106,wait
+20030,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+20030,Experiment,ended
+20036,Stimulus,presented,12
+23147,stderr,received,'Traceback (most recent call last):'
+23147,stderr,received,'  File "c.py", line 130, in <module>'
+23148,stderr,received,'    blankscreen.present()'
+23148,stderr,received,'  File "/Users/lozhkomyroslava/opt/anaconda3/envs/expyriment/lib/python3.7/site-packages/expyriment/stimuli/_visual.py", line 1175, in present'
+23149,stderr,received,'    raise RuntimeError("Cannot not find a screen!")'
+23149,stderr,received,'RuntimeError: Cannot not find a screen!'

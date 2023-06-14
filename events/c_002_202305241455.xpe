@@ -1,0 +1,41 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed May 24 2023 14:55:59
+#sha1: b5c6f9
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10211,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+10211,design,logged,
+10211,Experiment,started
+10225,Stimulus,presented,5
+11182,Keyboard,received,32,wait
+11200,Stimulus,presented,0
+12930,Picture,loaded,d_2_dots.png
+12939,Stimulus,presented,0
+13183,Keyboard,received,102,wait
+13198,Stimulus,presented,0
+14212,Stimulus,presented,0
+15246,Picture,loaded,d_3_dots.png
+15255,Stimulus,presented,0
+15489,Keyboard,received,106,wait
+15498,Stimulus,presented,0
+16515,Stimulus,presented,0
+17926,Picture,loaded,s_2_dots.png
+17935,Stimulus,presented,0
+18067,Keyboard,received,106,wait
+18077,Stimulus,presented,0
+19090,Stimulus,presented,0
+20960,Picture,loaded,s_3_dots.png
+20969,Stimulus,presented,0
+21105,Keyboard,received,102,wait
+21114,Stimulus,presented,0
+22114,Experiment,ended
+22115,Data,saved
+22120,Stimulus,presented,12
+25236,stderr,received,'Traceback (most recent call last):'
+25236,stderr,received,'  File "c.py", line 130, in <module>'
+25237,stderr,received,'    for row in exp():'
+25237,stderr,received,"TypeError: 'Experiment' object is not callable"

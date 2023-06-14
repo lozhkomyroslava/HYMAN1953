@@ -1,0 +1,16 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed May 24 2023 14:04:59
+#sha1: c1096f
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+3998,stderr,received,'Exception ignored in: <function Visual.__del__ at 0x7fa098685950>'
+3998,stderr,received,'Traceback (most recent call last):'
+3998,stderr,received,'  File "/Users/lozhkomyroslava/opt/anaconda3/envs/expyriment/lib/python3.7/site-packages/expyriment/stimuli/_visual.py", line 267, in __del__'
+3999,stderr,received,'    if self._compression_filename is not None:'
+3999,stderr,received,"AttributeError: 'Rectangle' object has no attribute '_compression_filename'"
+3999,stderr,received,'Traceback (most recent call last):'
+3999,stderr,received,'  File "c.py", line 47, in <module>'
+3999,stderr,received,'    line_width=2'
+3999,stderr,received,"TypeError: __init__() got an unexpected keyword argument 'frame_size'"

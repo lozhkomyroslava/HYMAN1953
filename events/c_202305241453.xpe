@@ -1,0 +1,5 @@
+3990,stdout,received,'Warning: PyOpenGL is not installed. OpenGL will be deactivated!'
+31987,stdout,received,'Traceback (most recent call last):'
+31987,stdout,received,'  File "c.py", line 130, in <module>'
+31987,stdout,received,'    for trial in exp():'
+31987,stdout,received,"TypeError: 'Experiment' object is not callable"

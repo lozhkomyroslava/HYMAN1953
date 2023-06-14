@@ -1,0 +1,39 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Thu May 25 2023 14:36:42
+#sha1: b50f2a
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10755,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+10755,design,logged,
+10755,Experiment,started
+10772,Stimulus,presented,5
+11054,Keyboard,received,32,wait
+11072,Stimulus,presented,0
+12970,Picture,loaded,d_3_dots.png
+12980,Stimulus,presented,0
+13612,Keyboard,received,106,wait
+13626,Stimulus,presented,0
+14640,Stimulus,presented,0
+16183,Picture,loaded,d_2_dots.png
+16192,Stimulus,presented,0
+16796,Keyboard,received,102,wait
+16806,Stimulus,presented,0
+17819,Stimulus,presented,0
+19011,Picture,loaded,s_2_dots.png
+19020,Stimulus,presented,0
+19417,Keyboard,received,102,wait
+19426,Stimulus,presented,0
+20439,Stimulus,presented,0
+21723,Picture,loaded,s_3_dots.png
+21732,Stimulus,presented,0
+22175,Keyboard,received,106,wait
+22184,Stimulus,presented,0
+23184,stderr,received,'Traceback (most recent call last):'
+23184,stderr,received,'  File "c.py", line 158, in <module>'
+23184,stderr,received,'    def save_data(waiting_times, reaction_times, filename=RESULT_FILE):'
+23184,stderr,received,"NameError: name 'RESULT_FILE' is not defined"
+23185,Data,saved

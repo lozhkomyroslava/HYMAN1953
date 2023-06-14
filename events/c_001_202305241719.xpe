@@ -1,0 +1,36 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed May 24 2023 17:19:43
+#sha1: 6a6253
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10518,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+10518,design,logged,
+10518,Experiment,started
+10538,Stimulus,presented,5
+11023,Keyboard,received,32,wait
+11043,Stimulus,presented,0
+12394,Picture,loaded,s_2_dots.png
+12411,Stimulus,presented,0
+13158,Keyboard,received,106,wait
+13158,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+13170,Stimulus,presented,0
+14752,Picture,loaded,d_2_dots.png
+14770,Stimulus,presented,0
+15587,Keyboard,received,102,wait
+15587,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+15599,Stimulus,presented,0
+17366,Picture,loaded,d_3_dots.png
+17383,Stimulus,presented,0
+17997,Keyboard,received,102,wait
+17997,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+18009,Stimulus,presented,0
+19755,Picture,loaded,s_3_dots.png
+19774,Stimulus,presented,0
+20146,Keyboard,received,106,wait
+20146,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+20146,Experiment,ended
+20152,Stimulus,presented,12

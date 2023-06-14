@@ -1,0 +1,11 @@
+4003,stdout,received,'Warning: PyOpenGL is not installed. OpenGL will be deactivated!'
+17404,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+19215,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+21909,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+24033,stdout,received,"Error loading image: 'float' object has no attribute 'time'"
+27151,stdout,received,'Traceback (most recent call last):'
+27151,stdout,received,'  File "c.py", line 130, in <module>'
+27151,stdout,received,'    blankscreen.present()'
+27151,stdout,received,'  File "/Users/lozhkomyroslava/opt/anaconda3/envs/expyriment/lib/python3.7/site-packages/expyriment/stimuli/_visual.py", line 1175, in present'
+27152,stdout,received,'    raise RuntimeError("Cannot not find a screen!")'
+27152,stdout,received,'RuntimeError: Cannot not find a screen!'

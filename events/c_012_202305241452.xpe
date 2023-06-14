@@ -1,0 +1,41 @@
+#Expyriment 0.10.0+118.gdd84dba (Python 3.7.16), .xpe-file, coding: UTF-8
+#date: Wed May 24 2023 14:52:02
+#sha1: d986ce
+#modules: 
+#display: size=(1440, 900), window_mode=False, open_gl=False
+#os: uname_result(system='Darwin', node='Miroslavas-MacBook-Air.local', release='22.4.0', version='Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103', machine='x86_64', processor='i386')
+Time,Type,Event,Value,Detail,Detail2
+10774,design,log,
+#design: #exp: multitask
+#design: block_cnt,block_id,trial_cnt,trial_id
+10774,design,logged,
+10774,Experiment,started
+10790,Stimulus,presented,5
+11507,Keyboard,received,32,wait
+11526,Stimulus,presented,0
+12796,Picture,loaded,d_3_dots.png
+12806,Stimulus,presented,0
+14573,Keyboard,received,102,wait
+14585,Stimulus,presented,0
+15600,Stimulus,presented,0
+17109,Picture,loaded,s_2_dots.png
+17118,Stimulus,presented,0
+17554,Keyboard,received,102,wait
+17564,Stimulus,presented,0
+18578,Stimulus,presented,0
+20410,Picture,loaded,s_3_dots.png
+20419,Stimulus,presented,0
+20838,Keyboard,received,106,wait
+20848,Stimulus,presented,0
+21862,Stimulus,presented,0
+23509,Picture,loaded,d_2_dots.png
+23518,Stimulus,presented,0
+24030,Keyboard,received,102,wait
+24039,Stimulus,presented,0
+25039,Experiment,ended
+25039,Data,saved
+25044,Stimulus,presented,12
+28159,stderr,received,'Traceback (most recent call last):'
+28159,stderr,received,'  File "c.py", line 130, in <module>'
+28159,stderr,received,'    for trial in exp.data.get():'
+28159,stderr,received,"AttributeError: 'DataFile' object has no attribute 'get'"

@@ -1,0 +1,7 @@
+4783,stdout,received,'Warning: PyOpenGL is not installed. OpenGL will be deactivated!'
+33366,stdout,received,'Traceback (most recent call last):'
+33366,stdout,received,'  File "c.py", line 131, in <module>'
+33367,stdout,received,'    blankscreen.present()'
+33367,stdout,received,'  File "/Users/lozhkomyroslava/opt/anaconda3/envs/expyriment/lib/python3.7/site-packages/expyriment/stimuli/_visual.py", line 1175, in present'
+33367,stdout,received,'    raise RuntimeError("Cannot not find a screen!")'
+33367,stdout,received,'RuntimeError: Cannot not find a screen!'
