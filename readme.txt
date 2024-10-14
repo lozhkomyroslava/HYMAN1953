@@ -9,5 +9,3 @@ Participants completed three training blocks consisting of 40 trials each, follo
 The primary objective of this experiment was to investigate both mixing costs and switch costs. Mixing costs refer to the slowing down observed when participants switch between tasks compared to performing a block of pure trials. Switch costs specifically refer to the additional slowing down observed on trials immediately following a task switch. By measuring these costs, we aimed to assess participants' ability to switch tasks efficiently and examine the impact of task-switching demands on cognitive performance.
 
 Figure 2 provides a schematic representation of the task-switching paradigm, illustrating the trial structure, the rectangular frame with labels, and the different types of imperative stimuli used in the shape and filling tasks.
-
-Note: The provided description is a summary based on the information you provided. Please ensure it accurately represents the experimental setup and objectives of your specific study.
